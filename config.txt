@@ -1,0 +1,5 @@
+
+PROJECT_NAME=FileConverter
+FileConverter_VERSION_MAJOR=1
+FileConverter_VERSION_MINOR=2
+FileConverter_VERSION_PATCH=3
