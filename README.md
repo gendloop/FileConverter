@@ -1,9 +1,9 @@
-# RepoName
+# FileConverter
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/FileConverter
 ```
 
 ## Notes
