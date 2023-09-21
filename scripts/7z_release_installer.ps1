@@ -32,7 +32,7 @@ echo $version
 
 # rename
 $folder_path = Split-Path "$exe_file" -Parent
-Copy-Item $exe_file $folder_path\${project_name}-$($version[0]).$($version[1]).$($version[2])-win64${extension} -Force
+7z a $env:userprofile\desktop\${project_name}-$($version[0]).$($version[1]).$($version[2])-win64.7z $exe_file -aoa
 
 
 
